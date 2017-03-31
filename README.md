@@ -1,7 +1,7 @@
 # Naive Bayes classifier
 Method Naive Bayes classifier
 
-Read about it in https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+Read about it in https://en.wikipedia.org/wiki/Naive_Bayes_classifier and https://www.sitepoint.com/machine-learning-ruby-naive-bayes-theorem/
 
 
 ## Use
